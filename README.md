@@ -1,24 +1,30 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# THP_S04_jour3
 
-Things you may want to cover:
+:smiley: :smiley: :smiley: :smiley: :smiley: :smiley: :smiley: :smiley: 
 
-* Ruby version
+## Introduction:
 
-* System dependencies
+Le projet permet d'apprendre à gérer des bases de données avec RAILS.
+Il consiste en la création d'un blog pour une famille avec :
+ * des utilisateurs
+ * des articles
+ * des  catégories
+ * des commentaires 
+ * des likes
 
-* Configuration
+:fire: :fire: :fire: :fire: :fire: :fire::fire: :fire: :fire: :fire: :fire:
 
-* Database creation
+## Sur Slack :tea: :
 
-* Database initialization
+* Quentin POTIE
+* Anrea PALMA
+* Kenadi S
+* Josselin GIFFARD-CARLET
 
-* How to run the test suite
+## Note sur la méthode de travail du groupe : :loop:
+Nous avons travaillé tous ensemble sur un ordi pour ce premier projet.
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
+                                             ❤️❤️❤️ MERCI A VOUS ❤️❤️❤️
